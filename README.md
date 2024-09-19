@@ -1,6 +1,8 @@
 ## Hi there 👋
+I'm Kate.
 
 - She / Her
+- Certified goober
 
 <!--
 **kforster-dev/kforster-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
