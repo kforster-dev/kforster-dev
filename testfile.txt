@@ -1,0 +1,3 @@
+Hello there!
+
+I was added from Visual Studio Code with 'git add'
