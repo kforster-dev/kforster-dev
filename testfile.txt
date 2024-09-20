@@ -3,4 +3,6 @@ Hello there!
 I was added from Visual Studio Code with 'git add', git commit' and 'git push'
 
 
-This is a chance
+This is a change
+
+Another change
